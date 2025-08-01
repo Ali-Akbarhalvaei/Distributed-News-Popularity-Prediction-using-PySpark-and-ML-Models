@@ -67,7 +67,7 @@ Installed using **VirtualBox** + **Ubuntu Server 24.04 ARM64**:
 3. Create a VM:
    - 4 CPU cores
    - 4GB RAM
-   - Use the Ubuntu ISO to install system with user: `vboxuser`
+   - Use the Ubuntu ISO to install system
 4. Set up **SSH tunneling**: Port forward 2022 (host) to 22 (guest)
 5. Install necessary packages:
 
